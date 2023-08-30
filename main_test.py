@@ -11,6 +11,6 @@ def test_sum_single_number():
     """Testfall für eine Liste mit einer einzigen Zahl."""
     assert(main.sum_of_numbers([7]), 7)
 
-def test_sum_empty_list(self):
+def test_sum_empty_list():
     """Testfall für eine leere Liste."""
     assert(main.sum_of_numbers([]), 0)
