@@ -1,12 +1,5 @@
-def calculate():
-    """
-    calculates the total
-    :return: None
-    """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+# your function goes here
 
-
-if __name__ == '__main__':
-    calculate()
+if __name__ == "__main__":
+    list = [1, 2, 3, 4, 5]
+    # and here
