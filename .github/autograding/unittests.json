@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_sum_positive_numbers",
+    "function": "test_sum_positive_numbers",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_mixed_numbers",
+    "function": "test_sum_mixed_numbers",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_single_number",
+    "function": "test_sum_single_number",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_empty_list",
+    "function": "test_sum_empty_list",
+    "timeout": 10,
+    "points": 1
+  }
+]
