@@ -7,5 +7,5 @@ Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu02/aufgaben/pur
 
 
 if __name__ == "__main__":
-    list = [1, 2, 3, 4, 5]
+    numbers = [1, 2, 3, 4, 5]
     # and here
